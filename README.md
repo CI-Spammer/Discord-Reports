@@ -1,5 +1,5 @@
 # Report Misbehavior
-Reporting misbehavior is easy.
+Reporting misbehavior in discord is easy.
 
 [KSoft Ban](https://bans.ksoft.si/user/754369476530667550/) allows you to easily report users.
 
